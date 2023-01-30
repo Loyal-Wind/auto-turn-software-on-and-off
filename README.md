@@ -1,8 +1,16 @@
+<div align="center">
+  
 # Auto Turn Software On and Off
 
 用于反复打开和关闭软件
 
-[![Release](https://img.shields.io/github/v/release/Loyal-Wind/auto-turn-software-on-and-off?style=for-the-badge&include_prereleases&sort=semver)][releases]
+[![Releases](https://img.shields.io/badge/RELEASES-V1.0--WINDOWS-orange?style=for-the-badge)](https://github.com/Loyal-Wind/auto-turn-software-on-and-off/releases/)
+[![AVAILABIE FOR](https://img.shields.io/badge/AVAILABIE%20FOR-WINDOWS-success?style=for-the-badge)](https://github.com/Loyal-Wind/auto-turn-software-on-and-off/releases/)
+
+</div>
+  
+# 描述
+
 一个非常简单的小程序，可以用它来反复打开关闭软件。
 
 应用场景如，PCL2铁杆粉隐藏主题解锁条件为打开启动器99次
