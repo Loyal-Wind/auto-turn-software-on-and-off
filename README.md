@@ -17,4 +17,4 @@
 
 还有一些需要启动多少次解锁成就，使用这个软件便可以轻松达到此目的
 
-如有Bug，请提交到Pull Request
+如有Bug，请提交到<a href="https://github.com/Loyal-Wind/auto-turn-software-on-and-off/issues">Issues</a>
