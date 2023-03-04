@@ -4,7 +4,7 @@
 
 用于反复打开和关闭软件  |  Used to repeatedly open and close the software
 
-[![Releases](https://img.shields.io/badge/RELEASES-V1.1--WINDOWS-orange?style=for-the-badge)](https://github.com/Loyal-Wind/auto-turn-software-on-and-off/releases/)
+[![Releases](https://img.shields.io/badge/RELEASES-V2.2--WINDOWS-orange?style=for-the-badge)](https://github.com/Loyal-Wind/auto-turn-software-on-and-off/releases/)
 [![FOR](https://img.shields.io/badge/FOR-WINDOWS-success?style=for-the-badge)](https://github.com/Loyal-Wind/auto-turn-software-on-and-off/releases/)
 
 </div>
