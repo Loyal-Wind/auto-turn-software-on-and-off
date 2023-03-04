@@ -23,6 +23,10 @@
 
 - There are also some software or games that need to be opened multiple times to unlock an achievement, which can be easily achieved by using this software
 
+注意：若显示没有权限，请右键程序以管理员身份运行
+
+- Note: If displayed no permission, please right click the program to run as administrator
+
 如有Bug，请提交到 <a href="https://github.com/Loyal-Wind/auto-turn-software-on-and-off/issues">Issues</a>
 
 - If there are bugs, please submit them to <a href="https://github.com/Loyal-Wind/auto-turn-software-on-and-off/issues">Issues</a>
